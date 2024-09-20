@@ -47,5 +47,5 @@ To ensure continued success, I recommend monitoring the **Average Revenue per Sa
 *Adjust strategies to focus on the most successful methods.
 ### Key Takeaways:
 
-*If "Email & Call" continues delivering significantly higher revenue, invest more in this method.
-*If the simpler "Email" method shows strong performance, it could be an efficient option for customer engagement.
+* If "Email & Call" continues delivering significantly higher revenue, invest more in this method.
+* If the simpler "Email" method shows strong performance, it could be an efficient option for customer engagement.

@@ -1,8 +1,9 @@
 # Sales Method Analysis and Recommendations
-Project Overview
-This project analyzes various sales methods and their impact on customer engagement and revenue generation. The goal is to uncover the best sales strategies and provide actionable recommendations to enhance future sales efforts.
+### Project Overview 
 
-Table of Contents
+This project analyzes various sales methods and their impact on customer engagement and revenue generation. The goal is to uncover the best sales strategies and provide actionable recommendations to enhance future sales efforts.
+---
+##Table of Contents
 Introduction
 Data Validation and Cleaning
 Sales Performance Metrics

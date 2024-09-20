@@ -15,7 +15,7 @@ In this analysis, I evaluated the effectiveness of three sales methods—email, 
 ## Data Validation and Cleaning
 The dataset initially contained several inconsistencies:
 
-* Missing Data: 1,074 entries in the revenue column were filled using the mean value.
+* *Missing Data*: 1,074 entries in the revenue column were filled using the mean value.
 * Data Formatting: The week column, initially in integer format, was converted to a date-time format.
 * Sales Method Standardization: Inconsistent entries in the sales method column (e.g., 'Email', 'em + call', 'Call') were standardized to ['email', 'email & call', 'call'] for consistency.
 Sales Performance Metrics

@@ -1,8 +1,6 @@
 # Sales Method Analysis and Recommendations
 ### Project Overview 
 This project analyzes various sales methods and their impact on customer engagement and revenue generation. The goal is to uncover the best sales strategies and provide actionable recommendations to enhance future sales efforts.
-
-
 ---
 ## Table of Contents
 Introduction
@@ -11,15 +9,15 @@ Sales Performance Metrics
 Exploratory Sales Analysis
 Recommendations
 Monitoring Plan
-Introduction
+## Introduction
 In this analysis, I evaluated the effectiveness of three sales methods—email, call, and a combination of both—in terms of customer count and revenue generation. The findings aim to inform data-driven decisions for improving sales strategies and driving growth.
 
-Data Validation and Cleaning
+##Data Validation and Cleaning
 The dataset initially contained several inconsistencies:
 
-Missing Data: 1,074 entries in the revenue column were filled using the mean value.
-Data Formatting: The week column, initially in integer format, was converted to a date-time format.
-Sales Method Standardization: Inconsistent entries in the sales method column (e.g., 'Email', 'em + call', 'Call') were standardized to ['email', 'email & call', 'call'] for consistency.
+*Missing Data: 1,074 entries in the revenue column were filled using the mean value.
+*Data Formatting: The week column, initially in integer format, was converted to a date-time format.
+*Sales Method Standardization: Inconsistent entries in the sales method column (e.g., 'Email', 'em + call', 'Call') were standardized to ['email', 'email & call', 'call'] for consistency.
 Sales Performance Metrics
 Key sales metrics were used to assess the success of each method:
 

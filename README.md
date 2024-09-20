@@ -24,7 +24,7 @@ Key sales metrics were used to assess the success of each method:
 
 * **Customer Count**: The email-only method was the most effective in attracting customers with minimal effort.
 * **Revenue Distribution**: A bimodal revenue distribution was observed, with peaks at 40-50 and 90-100. The "email & call" method generated the highest median revenue, making it ideal for high-value leads.
----
+
 ## Exploratory Sales Analysis
 1. Customer Count by Sales Method:
 
@@ -37,15 +37,15 @@ Key sales metrics were used to assess the success of each method:
     * The call method was effective for short-term campaigns, while email & call demonstrated consistent growth over time.
       
 ## Recommendations
-Email-only: Best for broad customer reach with minimal effort. Continue using this for general outreach and maintaining customer engagement with low resources.
-Email & Call: Best for driving higher revenue. Prioritize this method for high-value leads, as it balances higher returns with moderate effort.
-Call-only: Effective for high-priority short-term campaigns, but not ideal for long-term sustainability.
-Monitoring Plan
-To ensure continued success, I recommend monitoring the Average Revenue per Sales Method on a weekly or monthly basis. Regular tracking will allow the business to:
+* **Email-only**: Best for broad customer reach with minimal effort. Continue using this for general outreach and maintaining customer engagement with low resources.
+* **Email & Call**: Best for driving higher revenue. Prioritize this method for high-value leads, as it balances higher returns with moderate effort.
+* **Call-only**: Effective for high-priority short-term campaigns, but not ideal for long-term sustainability.
+##Monitoring Plan
+To ensure continued success, I recommend monitoring the **Average Revenue per Sales Method** on a weekly or monthly basis. Regular tracking will allow the business to:
 
-Identify trends.
-Adjust strategies to focus on the most successful methods.
-Key Takeaways:
+* Identify trends.
+*Adjust strategies to focus on the most successful methods.
+### Key Takeaways:
 
-If "Email & Call" continues delivering significantly higher revenue, invest more in this method.
-If the simpler "Email" method shows strong performance, it could be an efficient option for customer engagement.
+*If "Email & Call" continues delivering significantly higher revenue, invest more in this method.
+*If the simpler "Email" method shows strong performance, it could be an efficient option for customer engagement.

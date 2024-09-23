@@ -26,6 +26,9 @@ Key sales metrics were used to assess the success of each method:
 
 * **Customer Count**: The email-only method was the most effective in attracting customers with minimal effort.
 * **Revenue Distribution**: A bimodal revenue distribution was observed, with peaks at 40-50 and 90-100. The "email & call" method generated the highest median revenue, making it ideal for high-value leads.
+   ![image](https://github.com/user-attachments/assets/9e089ecc-c59c-4570-9c62-dfaa27fba1e0)
+   ![image](https://github.com/user-attachments/assets/058ee7fa-1d52-4d78-9d05-23d27dc87aaf)
+
 
 ## Exploratory Sales Analysis
 1. Customer Count by Sales Method:
@@ -37,6 +40,8 @@ Key sales metrics were used to assess the success of each method:
     * Call-only: Had high initial returns but lacked long-term sustainability.
 3. Revenue Over Time:
     * The call method was effective for short-term campaigns, while email & call demonstrated consistent growth over time.
+      ![image](https://github.com/user-attachments/assets/d398b05a-1752-4582-b463-32fbaea43c26)
+
       
 ## Recommendations
 * **Email-only**: Best for broad customer reach with minimal effort. Continue using this for general outreach and maintaining customer engagement with low resources.

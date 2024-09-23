@@ -47,7 +47,7 @@ Key sales metrics were used to assess the success of each method:
 * **Email-only**: Best for broad customer reach with minimal effort. Continue using this for general outreach and maintaining customer engagement with low resources.
 * **Email & Call**: Best for driving higher revenue. Prioritize this method for high-value leads, as it balances higher returns with moderate effort.
 * **Call-only**: Effective for high-priority short-term campaigns, but not ideal for long-term sustainability.
-##Monitoring Plan
+## Monitoring Plan
 To ensure continued success, I recommend monitoring the **Average Revenue per Sales Method** on a weekly or monthly basis. Regular tracking will allow the business to:
 
 * Identify trends.

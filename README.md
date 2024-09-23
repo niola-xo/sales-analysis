@@ -51,7 +51,7 @@ Key sales metrics were used to assess the success of each method:
 To ensure continued success, I recommend monitoring the **Average Revenue per Sales Method** on a weekly or monthly basis. Regular tracking will allow the business to:
 
 * Identify trends.
-*Adjust strategies to focus on the most successful methods.
+* Adjust strategies to focus on the most successful methods.
 ### Key Takeaways:
 
 * If "Email & Call" continues delivering significantly higher revenue, invest more in this method.

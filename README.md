@@ -19,6 +19,8 @@ The dataset initially contained several inconsistencies:
 * **Missing Data**: 1,074 entries in the revenue column were filled using the mean value.
 * **Data Formatting**: The week column, initially in integer format, was converted to a date-time format.
 * **Sales Method Standardization**: Inconsistent entries in the sales method column (e.g., 'Email', 'em + call', 'Call') were standardized to ['email', 'email & call', 'call'] for consistency.
+  ![image](https://github.com/user-attachments/assets/127796de-e7ee-4480-b12f-d46ad5e872e7)
+
 ## Sales Performance Metrics
 Key sales metrics were used to assess the success of each method:
 
